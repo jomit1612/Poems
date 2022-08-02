@@ -1,0 +1,64 @@
+.title {
+  text-align: center;
+  padding: 20px;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.poems {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+  list-style-type: none;
+  background-color: rgb(209, 164, 248);
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+
+.image {
+  display: flex;
+  margin: 0.6em;
+  width: 15em;
+  height: 10em;
+  justify-content: center;
+  align-items: center;
+}
+.suited {
+  padding-top: 20px;
+  display: flex;
+  margin: 0.6em;
+  width: 50em;
+  height: 30em;
+  justify-content: center;
+  margin-left: 25%;
+}
+.body {
+  background-color: antiquewhite;
+}
+
+.about {
+  border: 8px solid black;
+
+  text-align: center;
+}
+.whole {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 10px solid black;
+  padding: 10px;
+}
+.part {
+  justify-content: center;
+  align-items: center;
+}
