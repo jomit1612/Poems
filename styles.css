@@ -36,10 +36,11 @@
   padding-top: 20px;
   display: flex;
   margin: 0.6em;
-  width: 50em;
-  height: 30em;
+  width: 60%;
+  height: 40%;
   justify-content: center;
   margin-left: 25%;
+  max-width: 100%;
 }
 .body {
   background-color: antiquewhite;
