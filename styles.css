@@ -1,8 +1,10 @@
 .title {
   text-align: center;
-  padding: 20px;
-  border-style: solid;
+  padding: 10px;
   border-width: 5px;
+  border-radius: 50px;
+  font-size: 100px;
+  font-family: "Dancing Script", cursive;
 }
 
 .poems {
@@ -14,7 +16,7 @@
 
 .card {
   list-style-type: none;
-  background-color: rgb(209, 164, 248);
+  background-color: rgb(211, 218, 246);
   width: 270px;
   height: 300px;
   margin: 10px;
@@ -22,6 +24,7 @@
   justify-content: center;
   text-align: center;
   padding: 10px;
+  border: solid;
 }
 
 .image {
@@ -31,6 +34,7 @@
   height: 10em;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
 }
 .suited {
   padding-top: 20px;
@@ -41,25 +45,64 @@
   justify-content: center;
   margin-left: 25%;
   max-width: 100%;
+  border-radius: 50px;
 }
 .body {
   background-color: antiquewhite;
 }
-
-.about {
-  border: 8px solid black;
-
-  text-align: center;
+.whole-poem-spring {
+  border: 5px solid black;
+  background-color: aliceblue;
+  background-image: url(images/371574.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+.whole-poem-nurse {
+  border: 5px solid black;
+  background-color: aliceblue;
+  background-color: rgb(169, 248, 251);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .whole {
   display: block;
   justify-content: center;
   align-items: center;
   text-align: center;
-  border: 10px solid black;
-  padding: 10px;
+
+  padding: 5px;
 }
+
 .part {
   justify-content: center;
   align-items: center;
+}
+#about {
+  padding-top: 30px 0;
+  color: #ababaa;
+  padding-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.about-col-1 {
+  flex-basis: 35%;
+}
+.about-col-1 img {
+  width: 100%;
+  border-radius: 15px;
+}
+.about-col-2 {
+  flex-basis: 60%;
+}
+.sub-title {
+  font-size: 60px;
+  font-weight: 600;
+  color: rgb(245, 49, 130);
+  font-family: "Dancing Script", cursive;
 }
