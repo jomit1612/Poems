@@ -106,3 +106,15 @@
   color: rgb(245, 49, 130);
   font-family: "Dancing Script", cursive;
 }
+
+@media all and (max-width: 500px) {
+  .title {
+    color: aqua;
+    text-align: center;
+  }
+  .whole {
+    align-items: center;
+    max-width: 100%;
+    text-align: center;
+  }
+}
