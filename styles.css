@@ -65,7 +65,7 @@
 }
 .whole-poem-p {
   border: 5px solid black;
-  background-image: url(images/jachan-devol-xY_6ZENqcfo-unsplash.jpg);
+  background-image: url(images/arifur-rahman-iNajDD0Bn6U-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -84,6 +84,21 @@
   background-size: cover;
   color: white;
 }
+.whole-poem-0 {
+  border: 5px solid black;
+  background-image: url(images/frank-mckenna-eXHeq48Z-Q4-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+.whole-poem-a {
+  border: 5px solid black;
+  background-color: bisque;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+
 .whole {
   display: block;
   justify-content: center;
