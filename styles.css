@@ -137,7 +137,8 @@
     flex-basis: 100%;
   }
   .image {
-    padding-left: 33px;
+    flex-basis: 100%;
+    padding-left: 12.5%;
     border-radius: 0%;
   }
 }
