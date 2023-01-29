@@ -70,6 +70,13 @@
   background-size: cover;
   color: white;
 }
+.whole-poem-o {
+  border: 5px solid black;
+  background-image: url(images/tomoko-uji-kxvn1ogpTtE-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
 .whole {
   display: block;
   justify-content: center;
