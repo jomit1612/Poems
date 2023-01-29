@@ -59,12 +59,17 @@
 }
 .whole-poem-nurse {
   border: 5px solid black;
-  background-color: aliceblue;
-  background-color: rgb(169, 248, 251);
+  background-image: url(images/derek-finch-zkrPU_1AwdU-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.whole-poem-p {
+  border: 5px solid black;
+  background-image: url(images/jachan-devol-xY_6ZENqcfo-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
 .whole {
   display: block;
   justify-content: center;
