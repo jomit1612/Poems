@@ -77,6 +77,13 @@
   background-size: cover;
   color: black;
 }
+.whole-poem-q {
+  border: 5px solid black;
+  background-image: url(images/elyse-chia-At-UY6zFrLU-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
 .whole {
   display: block;
   justify-content: center;
