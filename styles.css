@@ -121,6 +121,8 @@
     align-items: center;
     text-align: center;
     justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
   }
   .about-col-1 {
     align-items: center;
@@ -133,6 +135,8 @@
     text-align: center;
     justify-content: center;
     flex-basis: 100%;
-    max-width: 100%;
+  }
+  .image {
+    padding-left: 10%;
   }
 }
