@@ -117,4 +117,22 @@
     max-width: 100%;
     text-align: center;
   }
+  .card {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+  .about-col-1 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+  }
+  .about-col-2 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+  }
 }
