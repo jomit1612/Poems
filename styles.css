@@ -178,3 +178,37 @@
     color: white;
   }
 }
+.card a {
+  text-decoration: none;
+}
+
+.button {
+  appearance: none;
+  background: none;
+  color: #ffce00;
+  border: 3px solid #0e0d0b;
+  font-size: 11px;
+  outline: none;
+  cursor: pointer;
+  padding: 7px 7px;
+  border-radius: 8px;
+  color: black;
+  font-weight: 600;
+  margin: 0 15px;
+  transition: 0.4s;
+  color: #fe4880;
+  border: 2px solid #fe4880;
+  background-image: linear-gradient(to right, transparent 50%, #fe4880 50%);
+  background-size: 200%;
+  background-position: 0%;
+}
+.button:hover {
+  color: #fe4880;
+  background-position: 100%;
+}
+.button a {
+  color: #0e0d0b;
+}
+
+.button a:hover {
+}
