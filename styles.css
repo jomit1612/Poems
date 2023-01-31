@@ -181,6 +181,9 @@
   .title {
     font-size: 50px;
   }
+  .sub-title {
+    font-size: 50px;
+  }
   .whole {
     align-items: center;
     max-width: 100%;
