@@ -195,7 +195,7 @@
   color: black;
   font-weight: 600;
   margin: 0 15px;
-  transition: 0.4s;
+  transition: 0.1s;
   color: #fe4880;
   border: 2px solid #fe4880;
   background-image: linear-gradient(to right, transparent 50%, #fe4880 50%);
@@ -208,7 +208,4 @@
 }
 .button a {
   color: #0e0d0b;
-}
-
-.button a:hover {
 }
