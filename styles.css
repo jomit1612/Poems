@@ -1,6 +1,6 @@
 .title {
   text-align: center;
-  padding: 10px;
+  padding: 5px;
   border-width: 5px;
   border-radius: 50px;
   font-size: 100px;
@@ -163,17 +163,15 @@
   color: rgb(75, 14, 14);
 }
 .sub-title {
-  font-size: 60px;
-  font-weight: 600;
+  font-size: 50px;
+  font-weight: 300;
   color: rgb(245, 49, 130);
   font-family: "Dancing Script", cursive;
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 10px;
-  border-width: 5px;
-  border-radius: 50px;
-  font-size: 100px;
+
+  font-size: 70px;
   font-family: "Dancing Script", cursive;
 }
 
