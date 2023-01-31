@@ -16,7 +16,7 @@
 
 .card {
   list-style-type: none;
-  background-color: rgb(211, 218, 246);
+  background-color: antiquewhite;
   width: 270px;
   height: 300px;
   margin: 10px;
@@ -143,6 +143,8 @@
   padding-top: 30px 0;
   color: #ababaa;
   padding-bottom: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2ut0px;
 }
 
 .row {
@@ -221,20 +223,20 @@
 
 .button {
   appearance: none;
-  background: none;
+  background: white;
   color: #ffce00;
-  border: 3px solid #0e0d0b;
+  border: 0px solid #0e0d0b;
   font-size: 11px;
   outline: none;
   cursor: pointer;
   padding: 7px 7px;
-
+  border-radius: 10px;
   color: black;
   font-weight: 600;
   margin: 0 15px;
-  /* transition: 0.1s; */
+
   color: #080405;
-  border: 2px solid #fe4880;
+  border: 2px solid #040102;
   background-image: linear-gradient(to right, transparent 50%, #fe4880 50%);
   background-size: 200%;
   background-position: 0%;
