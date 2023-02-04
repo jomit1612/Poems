@@ -100,7 +100,7 @@
 .card6 {
   color: black;
   list-style-type: none;
-  background-image: url(images/xavi-cabrera-en4_mELsFQQ-unsplash.jpg);
+  background-image: url(images/gabriella-clare-marino-J0Hd5hrzF54-unsplash.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-size: x-large;
@@ -112,7 +112,7 @@
   justify-content: center;
   text-align: center;
   padding: 10px;
-  color: black;
+  color: white;
 }
 .card7 {
   color: black;
@@ -394,18 +394,23 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-
-  font-size: 70px;
-  font-family: "Dancing Script", cursive;
 }
 
 @media all and (max-width: 500px) {
   .title {
     font-size: 50px;
   }
-  .sub-title {
+  /* .sub-title {
     font-size: 50px;
-  }
+    font-size: 50px;
+    font-weight: 300;
+    color: rgb(245, 49, 130);
+    font-family: "Dancing Script", cursive;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    animation: none;
+  } */
   .whole {
     align-items: center;
     max-width: 100%;
