@@ -14,8 +14,230 @@
   flex-wrap: wrap;
 }
 
+.card1 {
+  list-style-type: none;
+  background-image: url(images/matthew-waring-KtDT5waLwI8-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: antiquewhite;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  font-size: x-large;
+  font-weight: bold;
+  color: black;
+}
+.card2 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/371574.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: antiquewhite;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+.card3 {
+  color: white;
+  list-style-type: none;
+  background-image: url(images/arifur-rahman-iNajDD0Bn6U-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+.card4 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/han-chenxu-YdAqiUkUoWA-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+}
+.card5 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/house.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.card6 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/xavi-cabrera-en4_mELsFQQ-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
+.card7 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/ehimetalor-akhere-unuabona-TVWHQLAk0ew-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
+.card8 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/cole-keister-rydTSO7xB5A-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
+.card9 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/ravi-sharma-hNv5s6NEYig-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
+.card10 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/kaileen-fitzpatrick-y-uNWHPqafg-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.card10 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/kaileen-fitzpatrick-y-uNWHPqafg-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.card11 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/a8710cfd-a54f-42b0-b8be-b666fb62b2c0.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+.card12 {
+  color: black;
+  list-style-type: none;
+  background-image: url(images/Autism_Aspect_Masking_1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: x-large;
+  font-weight: bold;
+  width: 270px;
+  height: 300px;
+  margin: 10px;
+  border-radius: 15px;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  color: black;
+}
 .card {
   list-style-type: none;
+  /* background-image: url(images/matthew-waring-KtDT5waLwI8-unsplash.jpg);
+  background-repeat: no-repeat; */
+  background-size: cover;
   background-color: antiquewhite;
   width: 270px;
   height: 300px;
@@ -196,6 +418,102 @@
     flex-basis: 100%;
     max-width: 100%;
   }
+  .card1 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card2 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card3 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: white;
+  }
+  .card4 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: white;
+  }
+  .card5 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: white;
+  }
+  .card6 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card7 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card8 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card9 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card10 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: black;
+  }
+  .card11 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: white;
+  }
+  .card12 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-basis: 100%;
+    max-width: 100%;
+    color: white;
+  }
   .about-col-1 {
     align-items: center;
     text-align: center;
@@ -236,7 +554,7 @@
   margin: 0 15px;
 
   color: #080405;
-  border: 2px solid #040102;
+  border: 1px solid #040102;
   background-image: linear-gradient(to right, transparent 50%, #fe4880 50%);
   background-size: 200%;
   background-position: 0%;
@@ -244,7 +562,4 @@
 .button:hover {
   background-color: #fe4880;
   background-position: 100%;
-}
-.button a {
-  color: #0e0d0b;
 }
